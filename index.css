@@ -41,7 +41,7 @@ div p
     padding :20px 50px 20px 50px;
     
 }
-#love
+.love
 {
     padding : 50px 100px 20px 100px;
     
@@ -57,16 +57,29 @@ div p
     
     
 }
+.love1
+{
+    padding: 50px 100px 50px 200px;
+}
 .cls
 {
     color:white;
     font-size:15px;
 }
-#cls1
-{
-    color:white;
-}
+
 .back
 {
     background-color: black;
+}
+.paa
+{
+    color:#4286f4;
+    padding:50px 50px 50px 50px;
+}
+.cont
+{
+    padding-top:40px;
+    padding-right:30px;
+    padding-bottom:40px;
+    padding-left:100px;
 }
