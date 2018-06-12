@@ -5,8 +5,8 @@
 }
 #logo1
 {
-    width:111px;
-   height:80px;
+    width:200px;
+   
    
 }
 #head1
@@ -24,7 +24,9 @@ li a
 {
     font-family: Raleway, sans-serif;
     color: white ;
-    font-size:14px;
+    font-size:10px;
+    padding: 60px 20px 30px 20px;
+    margin: 15px 15px 15px 15px;
     
 }
 p
@@ -35,10 +37,14 @@ button
 {
     background-color:#b30000;
     color:white;
+    padding-bottom:40px;
 }
 div p
 {
-    padding :20px 50px 20px 50px;
+    padding :10px 50px 10px 50px;
+    color:#666666;
+    font-family: Raleway, sans-serif;
+    font-size:13px;
     
 }
 .love
