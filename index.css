@@ -54,7 +54,7 @@ button
     margin:4px 4px 4px 4px;
     
 }
-button:hover
+button.bx:hover
 {
     background-color: white;
     border-color:rgb(183, 22, 12);
@@ -118,13 +118,19 @@ button:hover
 }
 .ba{
     color:#0099cc;
-    font-size: 14px;
+    font-size: 11px;
     background-color:white;
+    border: none;
+    border-radius: 3px;
     text-align: center;
-    padding: 11px 24px;
+    padding: 9px 24px;
     font-style: normal; 
     font-family: Raleway, sans-serif;
-    margin:4px 4px 4px 4px;
+    margin:50px;
+}
+button.ba:hover
+{
+    color:black;
 }
 
 .dx
