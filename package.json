@@ -1,0 +1,22 @@
+{
+  "name": "young_india_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaarigupta/young_india_challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaarigupta/young_india_challenge/issues"
+  },
+  "homepage": "https://github.com/vaarigupta/young_india_challenge#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
